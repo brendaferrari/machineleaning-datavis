@@ -6,6 +6,8 @@ Perfect to display the data label to extract the best interpretation of your res
 
 <img src="images/mlclassification.gif" width="584"> 
 
+**This example focuses on the prediction of bioactive compounds but it can be modified to a variety of contexts!**
+
 &nbsp;
 
 ## Libraries used
