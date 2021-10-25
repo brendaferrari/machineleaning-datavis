@@ -1,6 +1,8 @@
-# Machine Learning Visualization graph
+# Machine Learning Interactive Visualization
 
-This jupyter code was created to share the model of a graph to present the results of a Machine Learning Classification model. 
+This jupyter code was created to share the model of an interactive graph to present the results of a Machine Learning Classification model. 
+
+Perfect to display the data label to extract the best interpretation of your results.
 
 <img src="images/mlclassification.gif" width="584"> 
 
@@ -15,8 +17,6 @@ This jupyter code was created to share the model of a graph to present the resul
 * [scikit-learn](https://scikit-learn.org/stable/) - Machine Learning in Python.
 
 * [plotly](https://plotly.com/) - The front end for ML and data science models
-
-&nbsp;
 
 ## Instalation
 
@@ -37,8 +37,6 @@ plotly
 pip install plotly
 ```
 
-&nbsp;
-
 ## Observations
 
 **This code was written by searching in different sources but mostly two answers in stackoverflow helped a lot:**
@@ -46,8 +44,6 @@ pip install plotly
 * [scatter-plot-markers-different-colors-based-on-value](https://stackoverflow.com/questions/67162389/scatter-plot-markers-different-colors-based-on-value)
 
 * [plotly-how-to-customize-legend](https://stackoverflow.com/questions/56871095/plotly-how-to-customize-legend)
-
-&nbsp;
 
 ## Authorship
 
